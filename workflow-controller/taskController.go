@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/xuanmingyi/igo-workflow/workflow-engine/model"
+	"github.com/xuanmingyi/go-workflow/workflow-engine/model"
 
 	"github.com/xuanmingyi/go-workflow/workflow-engine/service"
 
