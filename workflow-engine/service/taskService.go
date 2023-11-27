@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-workflow/go-workflow/workflow-engine/flow"
+	"github.com/xuanmingyi/go-workflow/workflow-engine/flow"
 
 	"github.com/jinzhu/gorm"
 
-	"github.com/go-workflow/go-workflow/workflow-engine/model"
 	"github.com/mumushuiding/util"
+	"github.com/xuanmingyi/go-workflow/workflow-engine/model"
 )
 
 // TaskReceiver 任务

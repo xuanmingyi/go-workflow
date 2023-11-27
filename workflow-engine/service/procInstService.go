@@ -7,9 +7,9 @@ import (
 
 	"github.com/jinzhu/gorm"
 
-	"github.com/go-workflow/go-workflow/workflow-engine/flow"
-	"github.com/go-workflow/go-workflow/workflow-engine/model"
 	"github.com/mumushuiding/util"
+	"github.com/xuanmingyi/go-workflow/workflow-engine/flow"
+	"github.com/xuanmingyi/go-workflow/workflow-engine/model"
 )
 
 // ProcessReceiver 接收页面传递参数
